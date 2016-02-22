@@ -1,0 +1,28 @@
+name: Dominykas
+favicon: null
+layout_spectrum: 0.4117508626077324
+typography_spectrum: 0.9614734991919249
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.08456928445957601
+  lightness: 0.50988670415245
+  saturation: 0.9226197001989931
+  rhythmicContrast: 0.9475777517072856
+purpose: []
